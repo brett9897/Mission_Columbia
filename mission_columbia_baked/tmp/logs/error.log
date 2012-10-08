@@ -1,0 +1,16 @@
+2012-10-08 16:28:26 Error: Fatal Error (1): Maximum function nesting level of '100' reached, aborting! in [C:\wamp\cake\lib\Cake\Utility\Validation.php, line 794]
+2012-10-08 16:28:26 Error: [FatalErrorException] Maximum function nesting level of '100' reached, aborting!
+#0 C:\wamp\cake\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Maximum functio...', 'C:\wamp\cake\li...', 794)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum functio...', 'C:\wamp\cake\li...', 794, Array)
+#2 C:\wamp\cake\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Maximum functio...', 'C:\wamp\cake\li...', 794, Array)
+#3 C:\wamp\cake\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-08 16:28:44 Error: Fatal Error (1): Maximum function nesting level of '100' reached, aborting! in [C:\wamp\cake\lib\Cake\Utility\Validation.php, line 794]
+2012-10-08 16:28:44 Error: [FatalErrorException] Maximum function nesting level of '100' reached, aborting!
+#0 C:\wamp\cake\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Maximum functio...', 'C:\wamp\cake\li...', 794)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum functio...', 'C:\wamp\cake\li...', 794, Array)
+#2 C:\wamp\cake\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Maximum functio...', 'C:\wamp\cake\li...', 794, Array)
+#3 C:\wamp\cake\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
