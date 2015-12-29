@@ -1,5 +1,8 @@
 Mission Columbia
 ================
+
+This project has moved to [mission_columbia_baked](http://github.com/lmartin41/mission_columbia_baked)
+
 Alright so here is the basics of getting it setup on your local system.
 
 1) Clone repository into wherever your Apache server serves files.
